@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/andika</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/atomic_age</item>
+        <item>@font/cedarville_cursive</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/paprika</item>
+    </array>
+</resources>
